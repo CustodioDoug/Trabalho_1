@@ -1,3 +1,5 @@
+//DESAFIO SUPER TRUNFO
+ 
 #include <stdio.h>
 int main(){
     char Carta1 = '1';
